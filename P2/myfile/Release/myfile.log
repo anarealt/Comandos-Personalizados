@@ -1,0 +1,18 @@
+﻿  myfile.c
+c:\users\jesus\desktop\p2file\myfile\myfile.c(31): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\users\jesus\desktop\p2file\myfile\myfile.c(32): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\users\jesus\desktop\p2file\myfile\myfile.c(33): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\users\jesus\desktop\p2file\myfile\myfile.c(36): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\users\jesus\desktop\p2file\myfile\myfile.c(20): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: vea la declaración de 'scanf'
+c:\users\jesus\desktop\p2file\myfile\myfile.c(23): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: vea la declaración de 'scanf'
+c:\users\jesus\desktop\p2file\myfile\myfile.c(29): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: vea la declaración de 'scanf'
+c:\users\jesus\desktop\p2file\myfile\myfile.c(47): warning C4013: 'open' sin definir; se supone que extern devuelve como resultado int
+c:\users\jesus\desktop\p2file\myfile\myfile.c(43): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: vea la declaración de 'fopen'
+c:\users\jesus\desktop\p2file\myfile\myfile.c(57): warning C4013: '_close' sin definir; se supone que extern devuelve como resultado int
+c:\users\jesus\desktop\p2file\myfile\myfile.c(62): warning C4013: '_read' sin definir; se supone que extern devuelve como resultado int
+c:\users\jesus\desktop\p2file\myfile\myfile.c(67): warning C4013: '_write' sin definir; se supone que extern devuelve como resultado int
+  myfile.vcxproj -> C:\Users\jesus\Desktop\p2file\P2File\Release\myfile.lib
