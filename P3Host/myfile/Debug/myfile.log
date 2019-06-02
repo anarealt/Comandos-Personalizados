@@ -1,0 +1,29 @@
+﻿  myfile.c
+c:\users\jesus\desktop\p3host\myfile\myfile.c(18): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: vea la declaración de 'scanf'
+c:\users\jesus\desktop\p3host\myfile\myfile.c(21): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: vea la declaración de 'scanf'
+c:\users\jesus\desktop\p3host\myfile\myfile.c(27): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: vea la declaración de 'scanf'
+c:\users\jesus\desktop\p3host\myfile\myfile.c(29): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: vea la declaración de 'strcat'
+c:\users\jesus\desktop\p3host\myfile\myfile.c(30): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: vea la declaración de 'strcat'
+c:\users\jesus\desktop\p3host\myfile\myfile.c(31): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: vea la declaración de 'strcpy'
+c:\users\jesus\desktop\p3host\myfile\myfile.c(34): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: vea la declaración de 'strcpy'
+c:\users\jesus\desktop\p3host\myfile\myfile.c(39): warning C4028: parámetro formal 2 distinto de la declaración
+c:\users\jesus\desktop\p3host\myfile\myfile.c(45): warning C4554: "|": compruebe la prioridad de operador para posibles errores; utilice paréntesis para indicar la prioridad
+c:\users\jesus\desktop\p3host\myfile\myfile.c(46): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: vea la declaración de 'fopen'
+c:\users\jesus\desktop\p3host\myfile\myfile.c(64): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: vea la declaración de 'fscanf'
+c:\users\jesus\desktop\p3host\myfile\myfile.c(69): warning C4477: 'fprintf' : la cadena de formato '%c' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'char *'
+c:\users\jesus\desktop\p3host\myfile\myfile.c(69): warning C4098: 'writeCharFile': función 'void' que devuelve un valor
+c:\users\jesus\desktop\p3host\myfile\myfile.c(83): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: vea la declaración de 'strcpy'
+c:\users\jesus\desktop\p3host\myfile\myfile.c(104): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: vea la declaración de 'strcat'
+c:\users\jesus\desktop\p3host\myfile\myfile.c(112): warning C4098: 'writeBufferFile': función 'void' que devuelve un valor
+  myfile.vcxproj -> C:\Users\jesus\Desktop\P3Host\P3Host\Debug\myfile.lib
